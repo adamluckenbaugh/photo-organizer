@@ -5,4 +5,8 @@ Since this is a quick and dirty script the path to scan and the path to which to
 
 `python3 PhotoOrganizer.py`
 
+If you need to install PIL (imported by the script) this command may help.  It actually installs a newer maintained fork of the PIL project.
+
+`python3 -m pip install Pillow`
+
 Happy organizing!
